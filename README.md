@@ -8,17 +8,20 @@ My website: https://tecknologg.website
 # Dimensions 
 
 
-![picture]()
+![picture](https://github.com/Chromico/USB-TO-UART-BRIDGE/blob/master/pics/dimensions.png)
 
 
 # Assembled board
 
 
-![picture]()
+![picture](https://github.com/Chromico/USB-TO-UART-BRIDGE/blob/master/pics/final2.jpg)
+
+
+![picture](https://github.com/Chromico/USB-TO-UART-BRIDGE/blob/master/pics/final1.jpg)
 
 
 # Documentation
-You can get the official documentation here: 
+You can get the official documentation here: https://github.com/Chromico/USB-TO-UART-BRIDGE/blob/master/docs/CH340C%20USB%20TO%20UART%20BRIDGE%20Documentation.pdf
 
 
 # Contact
