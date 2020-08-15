@@ -23,6 +23,10 @@ My website: https://tecknologg.website
 # Documentation
 You can get the official documentation here: https://github.com/Chromico/USB-TO-UART-BRIDGE/blob/master/docs/CH340C%20USB%20TO%20UART%20BRIDGE%20Documentation.pdf
 
+# Certification
+As from 2020, this project is open source hardware certified.
+
+![picture](https://github.com/Chromico/USB-TO-UART-BRIDGE/blob/master/pics/oshw-mu000002.png)
 
 # Contact
 
